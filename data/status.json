@@ -1,0 +1,221 @@
+{
+  "repos": {
+    "cvat-ai/cvat": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501040Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "HumanSignal/label-studio": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501348Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "wkentaro/labelme": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501365Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "HumanSignal/labelImg": {
+      "state": "archived",
+      "last_success": "2025-12-02T00:12:13.501372Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "facebookresearch/dino": {
+      "state": "archived",
+      "last_success": "2025-12-02T00:12:13.501376Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "facebookresearch/dinov2": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501381Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "lightly-ai/lightly": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501394Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "openai/CLIP": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501399Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "salesforce/BLIP": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501409Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "haotian-liu/LLaVA": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501413Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "THUDM/CogVLM": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501418Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "facebookresearch/segment-anything": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501429Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "facebookresearch/detectron2": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501433Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "IDEA-Research/Grounded-Segment-Anything": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501437Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "ultralytics/ultralytics": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501443Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "open-mmlab/mmdetection": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501446Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "WongKinYiu/yolov7": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501450Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "PaddlePaddle/PaddleDetection": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501453Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "huggingface/pytorch-image-models": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501456Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "open-mmlab/mmpretrain": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501462Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "open-mmlab/mmpose": {
+      "state": "active",
+      "last_success": "2025-12-02T00:12:13.501466Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "CMU-Perceptual-Computing-Lab/openpose": {
+      "state": "error",
+      "last_success": "2025-12-02T00:11:51.133020Z",
+      "consecutive_failures": 1,
+      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+    },
+    "ViTAE-Transformer/ViTPose": {
+      "state": "error",
+      "last_success": "2025-12-02T00:11:51.133027Z",
+      "consecutive_failures": 1,
+      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+    },
+    "deepinsight/insightface": {
+      "state": "error",
+      "last_success": "2025-12-02T00:11:51.133033Z",
+      "consecutive_failures": 1,
+      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+    },
+    "1adrianb/face-alignment": {
+      "state": "error",
+      "last_success": "2025-12-02T00:11:51.133039Z",
+      "consecutive_failures": 1,
+      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+    },
+    "google/mediapipe": {
+      "state": "error",
+      "last_success": null,
+      "consecutive_failures": 2,
+      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+    },
+    "nerfstudio-project/nerfstudio": {
+      "state": "error",
+      "last_success": "2025-12-02T00:11:51.133070Z",
+      "consecutive_failures": 1,
+      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+    },
+    "bmild/nerf": {
+      "state": "error",
+      "last_success": "2025-12-02T00:11:51.133077Z",
+      "consecutive_failures": 1,
+      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+    },
+    "google-research/multinerf": {
+      "state": "error",
+      "last_success": "2025-12-02T00:11:51.133083Z",
+      "consecutive_failures": 1,
+      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+    },
+    "NVlabs/instant-ngp": {
+      "state": "error",
+      "last_success": "2025-12-02T00:11:51.133090Z",
+      "consecutive_failures": 1,
+      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+    },
+    "InterDigitalInc/CompressAI": {
+      "state": "error",
+      "last_success": "2025-12-02T00:11:51.133097Z",
+      "consecutive_failures": 1,
+      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+    },
+    "kornia/kornia": {
+      "state": "error",
+      "last_success": "2025-12-02T00:11:51.133103Z",
+      "consecutive_failures": 1,
+      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+    },
+    "albumentations-team/albumentations": {
+      "state": "error",
+      "last_success": "2025-12-02T00:11:51.133109Z",
+      "consecutive_failures": 1,
+      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+    },
+    "pytorch/vision": {
+      "state": "error",
+      "last_success": "2025-12-02T00:11:51.133124Z",
+      "consecutive_failures": 1,
+      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+    },
+    "triton-inference-server/server": {
+      "state": "error",
+      "last_success": "2025-12-02T00:11:51.133130Z",
+      "consecutive_failures": 1,
+      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+    },
+    "huggingface/candle": {
+      "state": "error",
+      "last_success": "2025-12-02T00:11:51.133136Z",
+      "consecutive_failures": 1,
+      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+    }
+  },
+  "last_run": null
+}

@@ -1,0 +1,159 @@
+# Awesome Computer Vision - Repository Configuration
+# Add new repos by copying an entry and updating the fields
+
+categories:
+  - name: "Labelling Tools"
+    description: "Tools for annotating and labeling image/video datasets"
+    repos:
+      - owner: cvat-ai
+        repo: cvat
+        description: "Computer Vision Annotation Tool"
+      - owner: HumanSignal
+        repo: label-studio
+        description: "Multi-type data labeling and annotation tool"
+      - owner: wkentaro
+        repo: labelme
+        description: "Image polygonal annotation with Python"
+      - owner: HumanSignal
+        repo: labelImg
+        description: "Graphical image annotation tool"
+
+  - name: "Self-Supervision"
+    description: "Self-supervised learning frameworks and methods"
+    repos:
+      - owner: facebookresearch
+        repo: dino
+        description: "Self-DIstillation with NO labels"
+      - owner: facebookresearch
+        repo: dinov2
+        description: "DINOv2: Learning robust visual features"
+      - owner: lightly-ai
+        repo: lightly
+        description: "Self-supervised learning framework"
+
+  - name: "Vision-Language Models (VLMs)"
+    description: "Models combining vision and language understanding"
+    repos:
+      - owner: openai
+        repo: CLIP
+        description: "Contrastive Language-Image Pre-Training"
+      - owner: salesforce
+        repo: BLIP
+        description: "Bootstrapping Language-Image Pre-training"
+      - owner: haotian-liu
+        repo: LLaVA
+        description: "Large Language and Vision Assistant"
+      - owner: THUDM
+        repo: CogVLM
+        description: "Visual language model for image understanding"
+
+  - name: "Instance Segmentation"
+    description: "Pixel-level object instance segmentation"
+    repos:
+      - owner: facebookresearch
+        repo: segment-anything
+        description: "Segment Anything Model (SAM)"
+      - owner: facebookresearch
+        repo: detectron2
+        description: "Detection and segmentation platform"
+      - owner: IDEA-Research
+        repo: Grounded-Segment-Anything
+        description: "Grounding DINO + SAM"
+
+  - name: "Object Detection"
+    description: "Object detection frameworks and models"
+    repos:
+      - owner: ultralytics
+        repo: ultralytics
+        description: "YOLOv8 and beyond"
+      - owner: open-mmlab
+        repo: mmdetection
+        description: "OpenMMLab detection toolbox"
+      - owner: WongKinYiu
+        repo: yolov7
+        description: "YOLOv7 implementation"
+      - owner: PaddlePaddle
+        repo: PaddleDetection
+        description: "PaddlePaddle object detection toolkit"
+
+  - name: "Classification"
+    description: "Image classification models and frameworks"
+    repos:
+      - owner: huggingface
+        repo: pytorch-image-models
+        description: "timm: PyTorch image models collection"
+      - owner: open-mmlab
+        repo: mmpretrain
+        description: "OpenMMLab pre-training toolbox"
+
+  - name: "Pose Estimation"
+    description: "Human and animal pose estimation"
+    repos:
+      - owner: open-mmlab
+        repo: mmpose
+        description: "OpenMMLab pose estimation toolbox"
+      - owner: CMU-Perceptual-Computing-Lab
+        repo: openpose
+        description: "Real-time multi-person keypoint detection"
+      - owner: ViTAE-Transformer
+        repo: ViTPose
+        description: "Vision Transformer for pose estimation"
+
+  - name: "Landmark Detection"
+    description: "Facial and body landmark detection"
+    repos:
+      - owner: deepinsight
+        repo: insightface
+        description: "Face analysis with deep learning"
+      - owner: 1adrianb
+        repo: face-alignment
+        description: "2D and 3D face alignment library"
+      - owner: google
+        repo: mediapipe
+        description: "Cross-platform ML solutions"
+
+  - name: "NeRFs"
+    description: "Neural Radiance Fields for 3D reconstruction"
+    repos:
+      - owner: nerfstudio-project
+        repo: nerfstudio
+        description: "Modular NeRF framework"
+      - owner: bmild
+        repo: nerf
+        description: "Original NeRF implementation"
+      - owner: google-research
+        repo: multinerf
+        description: "Google's multi-NeRF implementations"
+      - owner: NVlabs
+        repo: instant-ngp
+        description: "Instant neural graphics primitives"
+
+  - name: "Deep Learning Image Compression"
+    description: "Neural network based image/video compression"
+    repos:
+      - owner: InterDigitalInc
+        repo: CompressAI
+        description: "PyTorch library for learned compression"
+
+  - name: "Augmentation"
+    description: "Data augmentation libraries for training"
+    repos:
+      - owner: kornia
+        repo: kornia
+        description: "Differentiable CV library for PyTorch"
+      - owner: albumentations-team
+        repo: albumentations
+        description: "Fast image augmentation library"
+      - owner: pytorch
+        repo: vision
+        description: "torchvision transforms and datasets"
+
+  - name: "Inference Servers"
+    description: "Model serving and inference optimization"
+    repos:
+      - owner: triton-inference-server
+        repo: server
+        description: "NVIDIA Triton Inference Server"
+      - owner: huggingface
+        repo: candle
+        description: "Minimalist ML framework in Rust"

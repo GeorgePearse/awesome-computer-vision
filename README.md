@@ -4,7 +4,7 @@
 
 A curated list of awesome computer vision tools, libraries, and frameworks with live GitHub statistics.
 
-*Last updated: 2025-12-02 00:12 UTC*
+*Last updated: 2025-12-02 00:17 UTC*
 
 ## Contents
 
@@ -54,6 +54,7 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 | [BLIP](https://github.com/salesforce/BLIP) - Bootstrapping Language-Image Pre-training | 5.6k | 2024-08-05 | N/A |
 | [LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language and Vision Assistant | 24.1k | 2024-08-12 | N/A |
 | [CogVLM](https://github.com/zai-org/CogVLM) - Visual language model for image understanding | 6.7k | 2024-05-29 | N/A |
+| [InternVL](https://github.com/OpenGVLab/InternVL) - InternVL: Scaling up vision foundation models | 9.6k | 2025-09-22 | N/A |
 
 ## Instance Segmentation
 
@@ -64,6 +65,8 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 | [segment-anything](https://github.com/facebookresearch/segment-anything) - Segment Anything Model (SAM) | 52.7k | 2024-09-18 | N/A |
 | [detectron2](https://github.com/facebookresearch/detectron2) - Detection and segmentation platform | 33.8k | 2025-11-17 | N/A |
 | [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounding DINO + SAM | 17.2k | 2024-09-05 | N/A |
+| [mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab detection toolbox | 32.1k | 2024-08-21 | N/A |
+| [rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR: Real-time detection transformer | 4.5k | 2025-11-13 | N/A |
 
 ## Object Detection
 
@@ -75,6 +78,7 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 | [mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab detection toolbox | 32.1k | 2024-08-21 | N/A |
 | [yolov7](https://github.com/WongKinYiu/yolov7) - YOLOv7 implementation | 14.0k | 2024-08-19 | N/A |
 | [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - PaddlePaddle object detection toolkit | 13.9k | 2025-10-10 | N/A |
+| [rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR: Real-time detection transformer | 4.5k | 2025-11-13 | N/A |
 
 ## Classification
 
@@ -103,7 +107,7 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 |------------|------:|:-----------:|:----------:|
 | [insightface](https://github.com/deepinsight/insightface) - Face analysis with deep learning | 27.2k | 2025-11-25 | N/A |
 | [face-alignment](https://github.com/1adrianb/face-alignment) - 2D and 3D face alignment library | 7.4k | 2024-08-30 | N/A |
-| mediapipe | - | - | - |
+| [mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform ML solutions | 32.2k | 2025-12-01 | N/A |
 
 ## NeRFs
 
@@ -159,5 +163,4 @@ To add a new repository:
 - MoM Growth = Month-over-month percentage change in stars
 - Last Commit = Date of most recent push to the repository
 
-<!-- Failed repos (15): CMU-Perceptual-Computing-Lab/openpose, ViTAE-Transformer/ViTPose, deepinsight/insightface, 1adrianb/face-alignment, google/mediapipe, nerfstudio-project/nerfstudio, bmild/nerf, google-research/multinerf, NVlabs/instant-ngp, InterDigitalInc/CompressAI, kornia/kornia, albumentations-team/albumentations, pytorch/vision, triton-inference-server/server, huggingface/candle -->
-<!-- Generated: 2025-12-02T00:12:13.502972+00:00 -->
+<!-- Generated: 2025-12-02T00:17:19.907957+00:00 -->

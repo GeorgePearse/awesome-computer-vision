@@ -2,219 +2,231 @@
   "repos": {
     "cvat-ai/cvat": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501040Z",
+      "last_success": "2025-12-02T00:17:19.905811Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "HumanSignal/label-studio": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501348Z",
+      "last_success": "2025-12-02T00:17:19.906170Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "wkentaro/labelme": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501365Z",
+      "last_success": "2025-12-02T00:17:19.906181Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "HumanSignal/labelImg": {
       "state": "archived",
-      "last_success": "2025-12-02T00:12:13.501372Z",
+      "last_success": "2025-12-02T00:17:19.906187Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "facebookresearch/dino": {
       "state": "archived",
-      "last_success": "2025-12-02T00:12:13.501376Z",
+      "last_success": "2025-12-02T00:17:19.906192Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "facebookresearch/dinov2": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501381Z",
+      "last_success": "2025-12-02T00:17:19.906196Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "lightly-ai/lightly": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501394Z",
+      "last_success": "2025-12-02T00:17:19.906200Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "openai/CLIP": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501399Z",
+      "last_success": "2025-12-02T00:17:19.906205Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "salesforce/BLIP": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501409Z",
+      "last_success": "2025-12-02T00:17:19.906209Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "haotian-liu/LLaVA": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501413Z",
+      "last_success": "2025-12-02T00:17:19.906213Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "THUDM/CogVLM": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501418Z",
+      "last_success": "2025-12-02T00:17:19.906218Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "facebookresearch/segment-anything": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501429Z",
+      "last_success": "2025-12-02T00:17:19.906230Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "facebookresearch/detectron2": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501433Z",
+      "last_success": "2025-12-02T00:17:19.906234Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "IDEA-Research/Grounded-Segment-Anything": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501437Z",
+      "last_success": "2025-12-02T00:17:19.906238Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "ultralytics/ultralytics": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501443Z",
+      "last_success": "2025-12-02T00:17:19.906251Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "open-mmlab/mmdetection": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501446Z",
+      "last_success": "2025-12-02T00:17:19.906255Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "WongKinYiu/yolov7": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501450Z",
+      "last_success": "2025-12-02T00:17:19.906259Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "PaddlePaddle/PaddleDetection": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501453Z",
+      "last_success": "2025-12-02T00:17:19.906263Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "huggingface/pytorch-image-models": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501456Z",
+      "last_success": "2025-12-02T00:17:19.906270Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "open-mmlab/mmpretrain": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501462Z",
+      "last_success": "2025-12-02T00:17:19.906274Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "open-mmlab/mmpose": {
       "state": "active",
-      "last_success": "2025-12-02T00:12:13.501466Z",
+      "last_success": "2025-12-02T00:17:19.906278Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "CMU-Perceptual-Computing-Lab/openpose": {
-      "state": "error",
-      "last_success": "2025-12-02T00:11:51.133020Z",
-      "consecutive_failures": 1,
-      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+      "state": "active",
+      "last_success": "2025-12-02T00:17:19.906284Z",
+      "consecutive_failures": 0,
+      "last_error": null
     },
     "ViTAE-Transformer/ViTPose": {
-      "state": "error",
-      "last_success": "2025-12-02T00:11:51.133027Z",
-      "consecutive_failures": 1,
-      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+      "state": "active",
+      "last_success": "2025-12-02T00:17:19.906288Z",
+      "consecutive_failures": 0,
+      "last_error": null
     },
     "deepinsight/insightface": {
-      "state": "error",
-      "last_success": "2025-12-02T00:11:51.133033Z",
-      "consecutive_failures": 1,
-      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+      "state": "active",
+      "last_success": "2025-12-02T00:17:19.906291Z",
+      "consecutive_failures": 0,
+      "last_error": null
     },
     "1adrianb/face-alignment": {
-      "state": "error",
-      "last_success": "2025-12-02T00:11:51.133039Z",
-      "consecutive_failures": 1,
-      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+      "state": "active",
+      "last_success": "2025-12-02T00:17:19.906295Z",
+      "consecutive_failures": 0,
+      "last_error": null
     },
     "google/mediapipe": {
-      "state": "error",
-      "last_success": null,
-      "consecutive_failures": 2,
-      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+      "state": "active",
+      "last_success": "2025-12-02T00:17:19.906299Z",
+      "consecutive_failures": 0,
+      "last_error": null
     },
     "nerfstudio-project/nerfstudio": {
-      "state": "error",
-      "last_success": "2025-12-02T00:11:51.133070Z",
-      "consecutive_failures": 1,
-      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+      "state": "active",
+      "last_success": "2025-12-02T00:17:19.906303Z",
+      "consecutive_failures": 0,
+      "last_error": null
     },
     "bmild/nerf": {
-      "state": "error",
-      "last_success": "2025-12-02T00:11:51.133077Z",
-      "consecutive_failures": 1,
-      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+      "state": "active",
+      "last_success": "2025-12-02T00:17:19.906307Z",
+      "consecutive_failures": 0,
+      "last_error": null
     },
     "google-research/multinerf": {
-      "state": "error",
-      "last_success": "2025-12-02T00:11:51.133083Z",
-      "consecutive_failures": 1,
-      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+      "state": "archived",
+      "last_success": "2025-12-02T00:17:19.906311Z",
+      "consecutive_failures": 0,
+      "last_error": null
     },
     "NVlabs/instant-ngp": {
-      "state": "error",
-      "last_success": "2025-12-02T00:11:51.133090Z",
-      "consecutive_failures": 1,
-      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+      "state": "active",
+      "last_success": "2025-12-02T00:17:19.906314Z",
+      "consecutive_failures": 0,
+      "last_error": null
     },
     "InterDigitalInc/CompressAI": {
-      "state": "error",
-      "last_success": "2025-12-02T00:11:51.133097Z",
-      "consecutive_failures": 1,
-      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+      "state": "active",
+      "last_success": "2025-12-02T00:17:19.906320Z",
+      "consecutive_failures": 0,
+      "last_error": null
     },
     "kornia/kornia": {
-      "state": "error",
-      "last_success": "2025-12-02T00:11:51.133103Z",
-      "consecutive_failures": 1,
-      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+      "state": "active",
+      "last_success": "2025-12-02T00:17:19.906324Z",
+      "consecutive_failures": 0,
+      "last_error": null
     },
     "albumentations-team/albumentations": {
-      "state": "error",
-      "last_success": "2025-12-02T00:11:51.133109Z",
-      "consecutive_failures": 1,
-      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+      "state": "archived",
+      "last_success": "2025-12-02T00:17:19.906329Z",
+      "consecutive_failures": 0,
+      "last_error": null
     },
     "pytorch/vision": {
-      "state": "error",
-      "last_success": "2025-12-02T00:11:51.133124Z",
-      "consecutive_failures": 1,
-      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+      "state": "active",
+      "last_success": "2025-12-02T00:17:19.906336Z",
+      "consecutive_failures": 0,
+      "last_error": null
     },
     "triton-inference-server/server": {
-      "state": "error",
-      "last_success": "2025-12-02T00:11:51.133130Z",
-      "consecutive_failures": 1,
-      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+      "state": "active",
+      "last_success": "2025-12-02T00:17:19.906340Z",
+      "consecutive_failures": 0,
+      "last_error": null
     },
     "huggingface/candle": {
-      "state": "error",
-      "last_success": "2025-12-02T00:11:51.133136Z",
-      "consecutive_failures": 1,
-      "last_error": "Rate limit exceeded. Resets at 2025-12-02 00:38:11+00:00"
+      "state": "active",
+      "last_success": "2025-12-02T00:17:19.906344Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "OpenGVLab/InternVL": {
+      "state": "active",
+      "last_success": "2025-12-02T00:17:19.906225Z",
+      "consecutive_failures": 0,
+      "last_error": null
+    },
+    "roboflow/rf-detr": {
+      "state": "active",
+      "last_success": "2025-12-02T00:17:19.906266Z",
+      "consecutive_failures": 0,
+      "last_error": null
     }
   },
   "last_run": null

@@ -1,6 +1,6 @@
 # Awesome Computer Vision
 
-[![Update Stats](https://github.com/YOUR_USERNAME/awesome-computer-vision/actions/workflows/update-stats.yml/badge.svg)](https://github.com/YOUR_USERNAME/awesome-computer-vision/actions/workflows/update-stats.yml)
+[![Update Stats](https://github.com/GeorgePearse/awesome-computer-vision/actions/workflows/update-stats.yml/badge.svg)](https://github.com/GeorgePearse/awesome-computer-vision/actions/workflows/update-stats.yml)
 
 A curated list of awesome computer vision tools, libraries, and frameworks with live GitHub statistics.
 

@@ -4,7 +4,7 @@
 
 A curated list of awesome computer vision tools, libraries, and frameworks with live GitHub statistics.
 
-*Last updated: 2025-12-08 06:04 UTC*
+*Last updated: 2025-12-15 06:04 UTC*
 
 ## Contents
 
@@ -29,9 +29,9 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool | 14.9k | 2025-12-05 | N/A |
-| [label-studio](https://github.com/HumanSignal/label-studio) - Multi-type data labeling and annotation tool | 25.7k | 2025-12-08 | N/A |
-| [labelme](https://github.com/wkentaro/labelme) - Image polygonal annotation with Python | 15.3k | 2025-11-29 | N/A |
+| [cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool | 14.9k | 2025-12-12 | N/A |
+| [label-studio](https://github.com/HumanSignal/label-studio) - Multi-type data labeling and annotation tool | 25.8k | 2025-12-15 | N/A |
+| [labelme](https://github.com/wkentaro/labelme) - Image polygonal annotation with Python | 15.4k | 2025-11-29 | N/A |
 | [labelImg](https://github.com/HumanSignal/labelImg) - Graphical image annotation tool | 24.6k | 2024-06-07 | N/A |
 
 ## Self-Supervision
@@ -40,8 +40,8 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [dino](https://github.com/facebookresearch/dino) - Self-DIstillation with NO labels | 7.3k | 2024-07-03 | N/A |
-| [dinov2](https://github.com/facebookresearch/dinov2) - DINOv2: Learning robust visual features | 12.0k | 2025-12-02 | N/A |
+| [dino](https://github.com/facebookresearch/dino) - Self-DIstillation with NO labels | 7.4k | 2024-07-03 | N/A |
+| [dinov2](https://github.com/facebookresearch/dinov2) - DINOv2: Learning robust visual features | 12.0k | 2025-12-08 | N/A |
 | [lightly](https://github.com/lightly-ai/lightly) - Self-supervised learning framework | 3.6k | 2025-09-25 | N/A |
 
 ## Vision-Language Models (VLMs)
@@ -50,9 +50,9 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pre-Training | 31.9k | 2024-07-23 | N/A |
+| [CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pre-Training | 32.0k | 2024-07-23 | N/A |
 | [BLIP](https://github.com/salesforce/BLIP) - Bootstrapping Language-Image Pre-training | 5.6k | 2024-08-05 | N/A |
-| [LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language and Vision Assistant | 24.1k | 2024-08-12 | N/A |
+| [LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language and Vision Assistant | 24.2k | 2024-08-12 | N/A |
 | [CogVLM](https://github.com/zai-org/CogVLM) - Visual language model for image understanding | 6.7k | 2024-05-29 | N/A |
 | [InternVL](https://github.com/OpenGVLab/InternVL) - InternVL: Scaling up vision foundation models | 9.6k | 2025-09-22 | N/A |
 
@@ -62,11 +62,11 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [segment-anything](https://github.com/facebookresearch/segment-anything) - Segment Anything Model (SAM) | 52.8k | 2024-09-18 | N/A |
+| [segment-anything](https://github.com/facebookresearch/segment-anything) - Segment Anything Model (SAM) | 52.9k | 2024-09-18 | N/A |
 | [detectron2](https://github.com/facebookresearch/detectron2) - Detection and segmentation platform | 33.8k | 2025-11-17 | N/A |
 | [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounding DINO + SAM | 17.2k | 2024-09-05 | N/A |
-| [mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab detection toolbox | 32.1k | 2024-08-21 | N/A |
-| [rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR: Real-time detection transformer | 4.6k | 2025-11-13 | N/A |
+| [mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab detection toolbox | 32.2k | 2024-08-21 | N/A |
+| [rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR: Real-time detection transformer | 4.7k | 2025-11-13 | N/A |
 
 ## Object Detection
 
@@ -74,11 +74,11 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv8 and beyond | 49.6k | 2025-12-08 | N/A |
-| [mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab detection toolbox | 32.1k | 2024-08-21 | N/A |
+| [ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv8 and beyond | 49.9k | 2025-12-15 | N/A |
+| [mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab detection toolbox | 32.2k | 2024-08-21 | N/A |
 | [yolov7](https://github.com/WongKinYiu/yolov7) - YOLOv7 implementation | 14.1k | 2024-08-19 | N/A |
 | [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - PaddlePaddle object detection toolkit | 14.0k | 2025-10-10 | N/A |
-| [rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR: Real-time detection transformer | 4.6k | 2025-11-13 | N/A |
+| [rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR: Real-time detection transformer | 4.7k | 2025-11-13 | N/A |
 
 ## Classification
 
@@ -86,7 +86,7 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - timm: PyTorch image models collection | 36.0k | 2025-12-07 | N/A |
+| [pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - timm: PyTorch image models collection | 36.0k | 2025-12-12 | N/A |
 | [mmpretrain](https://github.com/open-mmlab/mmpretrain) - OpenMMLab pre-training toolbox | 3.8k | 2024-11-01 | N/A |
 
 ## Pose Estimation
@@ -95,7 +95,7 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [mmpose](https://github.com/open-mmlab/mmpose) - OpenMMLab pose estimation toolbox | 7.1k | 2025-08-04 | N/A |
+| [mmpose](https://github.com/open-mmlab/mmpose) - OpenMMLab pose estimation toolbox | 7.2k | 2025-08-04 | N/A |
 | [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - Real-time multi-person keypoint detection | 33.5k | 2024-08-03 | N/A |
 | [ViTPose](https://github.com/ViTAE-Transformer/ViTPose) - Vision Transformer for pose estimation | 1.9k | 2025-09-25 | N/A |
 
@@ -105,9 +105,9 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [insightface](https://github.com/deepinsight/insightface) - Face analysis with deep learning | 27.2k | 2025-11-25 | N/A |
+| [insightface](https://github.com/deepinsight/insightface) - Face analysis with deep learning | 27.3k | 2025-11-25 | N/A |
 | [face-alignment](https://github.com/1adrianb/face-alignment) - 2D and 3D face alignment library | 7.5k | 2024-08-30 | N/A |
-| [mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform ML solutions | 32.3k | 2025-12-06 | N/A |
+| [mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform ML solutions | 32.4k | 2025-12-12 | N/A |
 
 ## NeRFs
 
@@ -118,7 +118,7 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 | [nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - Modular NeRF framework | 11.0k | 2025-07-29 | N/A |
 | [nerf](https://github.com/bmild/nerf) - Original NeRF implementation | 10.7k | 2025-04-12 | N/A |
 | [multinerf](https://github.com/google-research/multinerf) - Google's multi-NeRF implementations | 3.8k | 2023-12-08 | N/A |
-| [instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives | 17.1k | 2025-12-02 | N/A |
+| [instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives | 17.1k | 2025-12-14 | N/A |
 
 ## Deep Learning Image Compression
 
@@ -134,9 +134,9 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [kornia](https://github.com/kornia/kornia) - Differentiable CV library for PyTorch | 10.9k | 2025-12-03 | N/A |
+| [kornia](https://github.com/kornia/kornia) - Differentiable CV library for PyTorch | 10.9k | 2025-12-08 | N/A |
 | [albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library | 15.2k | 2025-06-25 | N/A |
-| [vision](https://github.com/pytorch/vision) - torchvision transforms and datasets | 17.4k | 2025-12-07 | N/A |
+| [vision](https://github.com/pytorch/vision) - torchvision transforms and datasets | 17.4k | 2025-12-14 | N/A |
 
 ## Inference Servers
 
@@ -144,8 +144,8 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [server](https://github.com/triton-inference-server/server) - NVIDIA Triton Inference Server | 10.1k | 2025-12-06 | N/A |
-| [candle](https://github.com/huggingface/candle) - Minimalist ML framework in Rust | 18.8k | 2025-12-07 | N/A |
+| [server](https://github.com/triton-inference-server/server) - NVIDIA Triton Inference Server | 10.1k | 2025-12-12 | N/A |
+| [candle](https://github.com/huggingface/candle) - Minimalist ML framework in Rust | 18.8k | 2025-12-14 | N/A |
 
 ---
 
@@ -163,4 +163,4 @@ To add a new repository:
 - MoM Growth = Month-over-month percentage change in stars
 - Last Commit = Date of most recent push to the repository
 
-<!-- Generated: 2025-12-08T06:04:05.757314+00:00 -->
+<!-- Generated: 2025-12-15T06:04:15.191847+00:00 -->

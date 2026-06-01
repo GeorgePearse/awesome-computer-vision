@@ -2,229 +2,229 @@
   "repos": {
     "cvat-ai/cvat": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.407227Z",
+      "last_success": "2026-06-01T07:39:26.749346Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "HumanSignal/label-studio": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.407352Z",
+      "last_success": "2026-06-01T07:39:26.749472Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "wkentaro/labelme": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.407413Z",
+      "last_success": "2026-06-01T07:39:26.749534Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "HumanSignal/labelImg": {
       "state": "archived",
-      "last_success": "2026-05-25T07:28:09.407465Z",
+      "last_success": "2026-06-01T07:39:26.749578Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "facebookresearch/dino": {
       "state": "archived",
-      "last_success": "2026-05-25T07:28:09.407511Z",
+      "last_success": "2026-06-01T07:39:26.749621Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "facebookresearch/dinov2": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.407554Z",
+      "last_success": "2026-06-01T07:39:26.749672Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "lightly-ai/lightly": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.407594Z",
+      "last_success": "2026-06-01T07:39:26.749718Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "openai/CLIP": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.407633Z",
+      "last_success": "2026-06-01T07:39:26.749791Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "salesforce/BLIP": {
       "state": "archived",
-      "last_success": "2026-05-25T07:28:09.407676Z",
+      "last_success": "2026-06-01T07:39:26.749835Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "haotian-liu/LLaVA": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.407717Z",
+      "last_success": "2026-06-01T07:39:26.749882Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "THUDM/CogVLM": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.407758Z",
+      "last_success": "2026-06-01T07:39:26.749923Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "facebookresearch/segment-anything": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.407843Z",
+      "last_success": "2026-06-01T07:39:26.750015Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "facebookresearch/detectron2": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.407881Z",
+      "last_success": "2026-06-01T07:39:26.750056Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "IDEA-Research/Grounded-Segment-Anything": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.407949Z",
+      "last_success": "2026-06-01T07:39:26.750096Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "ultralytics/ultralytics": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408069Z",
+      "last_success": "2026-06-01T07:39:26.750223Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "open-mmlab/mmdetection": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408108Z",
+      "last_success": "2026-06-01T07:39:26.750269Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "WongKinYiu/yolov7": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408150Z",
+      "last_success": "2026-06-01T07:39:26.750316Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "PaddlePaddle/PaddleDetection": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408187Z",
+      "last_success": "2026-06-01T07:39:26.750355Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "huggingface/pytorch-image-models": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408264Z",
+      "last_success": "2026-06-01T07:39:26.750433Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "open-mmlab/mmpretrain": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408303Z",
+      "last_success": "2026-06-01T07:39:26.750472Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "open-mmlab/mmpose": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408340Z",
+      "last_success": "2026-06-01T07:39:26.750511Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "CMU-Perceptual-Computing-Lab/openpose": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408378Z",
+      "last_success": "2026-06-01T07:39:26.750550Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "ViTAE-Transformer/ViTPose": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408415Z",
+      "last_success": "2026-06-01T07:39:26.750589Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "deepinsight/insightface": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408453Z",
+      "last_success": "2026-06-01T07:39:26.750628Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "1adrianb/face-alignment": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408490Z",
+      "last_success": "2026-06-01T07:39:26.750667Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "google/mediapipe": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408528Z",
+      "last_success": "2026-06-01T07:39:26.750707Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "nerfstudio-project/nerfstudio": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408567Z",
+      "last_success": "2026-06-01T07:39:26.750767Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "bmild/nerf": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408605Z",
+      "last_success": "2026-06-01T07:39:26.750807Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "google-research/multinerf": {
       "state": "archived",
-      "last_success": "2026-05-25T07:28:09.408642Z",
+      "last_success": "2026-06-01T07:39:26.750847Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "NVlabs/instant-ngp": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408679Z",
+      "last_success": "2026-06-01T07:39:26.750888Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "InterDigitalInc/CompressAI": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408717Z",
+      "last_success": "2026-06-01T07:39:26.750928Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "kornia/kornia": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408754Z",
+      "last_success": "2026-06-01T07:39:26.750967Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "albumentations-team/albumentations": {
       "state": "archived",
-      "last_success": "2026-05-25T07:28:09.408791Z",
+      "last_success": "2026-06-01T07:39:26.751005Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "pytorch/vision": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408828Z",
+      "last_success": "2026-06-01T07:39:26.751044Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "triton-inference-server/server": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408866Z",
+      "last_success": "2026-06-01T07:39:26.751082Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "huggingface/candle": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408920Z",
+      "last_success": "2026-06-01T07:39:26.751119Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "OpenGVLab/InternVL": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.407801Z",
+      "last_success": "2026-06-01T07:39:26.749972Z",
       "consecutive_failures": 0,
       "last_error": null
     },
     "roboflow/rf-detr": {
       "state": "active",
-      "last_success": "2026-05-25T07:28:09.408224Z",
+      "last_success": "2026-06-01T07:39:26.750393Z",
       "consecutive_failures": 0,
       "last_error": null
     }

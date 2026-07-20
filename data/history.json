@@ -9337,6 +9337,277 @@
           "url": "https://github.com/huggingface/candle"
         }
       }
+    },
+    {
+      "date": "2026-07-20T08:40:54.873353Z",
+      "repos": {
+        "cvat-ai/cvat": {
+          "stars": 16335,
+          "last_commit": "2026-07-20T07:50:02Z",
+          "fetched_at": "2026-07-20T08:40:51.837264Z",
+          "archived": false,
+          "url": "https://github.com/cvat-ai/cvat"
+        },
+        "HumanSignal/label-studio": {
+          "stars": 27884,
+          "last_commit": "2026-07-20T08:03:42Z",
+          "fetched_at": "2026-07-20T08:40:51.848643Z",
+          "archived": false,
+          "url": "https://github.com/HumanSignal/label-studio"
+        },
+        "wkentaro/labelme": {
+          "stars": 16050,
+          "last_commit": "2026-07-20T03:16:14Z",
+          "fetched_at": "2026-07-20T08:40:51.861780Z",
+          "archived": false,
+          "url": "https://github.com/wkentaro/labelme"
+        },
+        "HumanSignal/labelImg": {
+          "stars": 25050,
+          "last_commit": "2024-06-07T20:24:32Z",
+          "fetched_at": "2026-07-20T08:40:51.902445Z",
+          "archived": true,
+          "url": "https://github.com/HumanSignal/labelImg"
+        },
+        "facebookresearch/dino": {
+          "stars": 7604,
+          "last_commit": "2024-07-03T16:21:59Z",
+          "fetched_at": "2026-07-20T08:40:51.875019Z",
+          "archived": true,
+          "url": "https://github.com/facebookresearch/dino"
+        },
+        "facebookresearch/dinov2": {
+          "stars": 13118,
+          "last_commit": "2026-06-03T15:32:00Z",
+          "fetched_at": "2026-07-20T08:40:52.141012Z",
+          "archived": false,
+          "url": "https://github.com/facebookresearch/dinov2"
+        },
+        "lightly-ai/lightly": {
+          "stars": 3782,
+          "last_commit": "2026-07-20T08:07:46Z",
+          "fetched_at": "2026-07-20T08:40:52.178403Z",
+          "archived": false,
+          "url": "https://github.com/lightly-ai/lightly"
+        },
+        "openai/CLIP": {
+          "stars": 34033,
+          "last_commit": "2026-03-25T18:46:40Z",
+          "fetched_at": "2026-07-20T08:40:52.169937Z",
+          "archived": false,
+          "url": "https://github.com/openai/CLIP"
+        },
+        "salesforce/BLIP": {
+          "stars": 5715,
+          "last_commit": "2026-03-03T12:43:12Z",
+          "fetched_at": "2026-07-20T08:40:52.162249Z",
+          "archived": true,
+          "url": "https://github.com/salesforce/BLIP"
+        },
+        "haotian-liu/LLaVA": {
+          "stars": 24931,
+          "last_commit": "2024-08-12T09:52:38Z",
+          "fetched_at": "2026-07-20T08:40:52.190773Z",
+          "archived": false,
+          "url": "https://github.com/haotian-liu/LLaVA"
+        },
+        "THUDM/CogVLM": {
+          "stars": 6742,
+          "last_commit": "2024-05-29T10:01:33Z",
+          "fetched_at": "2026-07-20T08:40:52.608239Z",
+          "archived": false,
+          "url": "https://github.com/zai-org/CogVLM"
+        },
+        "OpenGVLab/InternVL": {
+          "stars": 10098,
+          "last_commit": "2025-09-22T01:36:48Z",
+          "fetched_at": "2026-07-20T08:40:52.439294Z",
+          "archived": false,
+          "url": "https://github.com/OpenGVLab/InternVL"
+        },
+        "facebookresearch/segment-anything": {
+          "stars": 54564,
+          "last_commit": "2024-09-18T17:46:55Z",
+          "fetched_at": "2026-07-20T08:40:52.430878Z",
+          "archived": false,
+          "url": "https://github.com/facebookresearch/segment-anything"
+        },
+        "facebookresearch/detectron2": {
+          "stars": 34616,
+          "last_commit": "2026-06-07T04:31:54Z",
+          "fetched_at": "2026-07-20T08:40:52.557085Z",
+          "archived": false,
+          "url": "https://github.com/facebookresearch/detectron2"
+        },
+        "IDEA-Research/Grounded-Segment-Anything": {
+          "stars": 17676,
+          "last_commit": "2024-09-05T06:07:32Z",
+          "fetched_at": "2026-07-20T08:40:52.484213Z",
+          "archived": false,
+          "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything"
+        },
+        "open-mmlab/mmdetection": {
+          "stars": 32832,
+          "last_commit": "2024-08-21T02:01:07Z",
+          "fetched_at": "2026-07-20T08:40:52.834876Z",
+          "archived": false,
+          "url": "https://github.com/open-mmlab/mmdetection"
+        },
+        "roboflow/rf-detr": {
+          "stars": 8613,
+          "last_commit": "2026-07-19T23:01:15Z",
+          "fetched_at": "2026-07-20T08:40:53.029346Z",
+          "archived": false,
+          "url": "https://github.com/roboflow/rf-detr"
+        },
+        "ultralytics/ultralytics": {
+          "stars": 59658,
+          "last_commit": "2026-07-20T08:18:52Z",
+          "fetched_at": "2026-07-20T08:40:52.791886Z",
+          "archived": false,
+          "url": "https://github.com/ultralytics/ultralytics"
+        },
+        "WongKinYiu/yolov7": {
+          "stars": 14127,
+          "last_commit": "2024-08-19T12:57:04Z",
+          "fetched_at": "2026-07-20T08:40:52.930427Z",
+          "archived": false,
+          "url": "https://github.com/WongKinYiu/yolov7"
+        },
+        "PaddlePaddle/PaddleDetection": {
+          "stars": 14324,
+          "last_commit": "2026-05-28T07:28:31Z",
+          "fetched_at": "2026-07-20T08:40:52.995396Z",
+          "archived": false,
+          "url": "https://github.com/PaddlePaddle/PaddleDetection"
+        },
+        "huggingface/pytorch-image-models": {
+          "stars": 36992,
+          "last_commit": "2026-07-16T23:28:13Z",
+          "fetched_at": "2026-07-20T08:40:53.089775Z",
+          "archived": false,
+          "url": "https://github.com/huggingface/pytorch-image-models"
+        },
+        "open-mmlab/mmpretrain": {
+          "stars": 3842,
+          "last_commit": "2024-11-01T06:27:36Z",
+          "fetched_at": "2026-07-20T08:40:53.097587Z",
+          "archived": false,
+          "url": "https://github.com/open-mmlab/mmpretrain"
+        },
+        "open-mmlab/mmpose": {
+          "stars": 7753,
+          "last_commit": "2025-08-04T07:30:50Z",
+          "fetched_at": "2026-07-20T08:40:53.137941Z",
+          "archived": false,
+          "url": "https://github.com/open-mmlab/mmpose"
+        },
+        "CMU-Perceptual-Computing-Lab/openpose": {
+          "stars": 34298,
+          "last_commit": "2024-08-03T01:59:11Z",
+          "fetched_at": "2026-07-20T08:40:53.260772Z",
+          "archived": false,
+          "url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose"
+        },
+        "ViTAE-Transformer/ViTPose": {
+          "stars": 2105,
+          "last_commit": "2025-12-25T16:25:15Z",
+          "fetched_at": "2026-07-20T08:40:53.307427Z",
+          "archived": false,
+          "url": "https://github.com/ViTAE-Transformer/ViTPose"
+        },
+        "deepinsight/insightface": {
+          "stars": 29289,
+          "last_commit": "2026-05-23T06:45:57Z",
+          "fetched_at": "2026-07-20T08:40:53.390117Z",
+          "archived": false,
+          "url": "https://github.com/deepinsight/insightface"
+        },
+        "1adrianb/face-alignment": {
+          "stars": 7526,
+          "last_commit": "2026-04-06T22:19:17Z",
+          "fetched_at": "2026-07-20T08:40:53.378006Z",
+          "archived": false,
+          "url": "https://github.com/1adrianb/face-alignment"
+        },
+        "google/mediapipe": {
+          "stars": 36174,
+          "last_commit": "2026-07-17T16:28:14Z",
+          "fetched_at": "2026-07-20T08:40:53.594892Z",
+          "archived": false,
+          "url": "https://github.com/google-ai-edge/mediapipe"
+        },
+        "nerfstudio-project/nerfstudio": {
+          "stars": 11822,
+          "last_commit": "2025-07-29T02:30:55Z",
+          "fetched_at": "2026-07-20T08:40:53.558858Z",
+          "archived": false,
+          "url": "https://github.com/nerfstudio-project/nerfstudio"
+        },
+        "bmild/nerf": {
+          "stars": 10916,
+          "last_commit": "2025-04-12T16:26:12Z",
+          "fetched_at": "2026-07-20T08:40:53.587603Z",
+          "archived": false,
+          "url": "https://github.com/bmild/nerf"
+        },
+        "google-research/multinerf": {
+          "stars": 3811,
+          "last_commit": "2023-12-08T20:14:39Z",
+          "fetched_at": "2026-07-20T08:40:53.679486Z",
+          "archived": true,
+          "url": "https://github.com/google-research/multinerf"
+        },
+        "NVlabs/instant-ngp": {
+          "stars": 17497,
+          "last_commit": "2026-02-02T12:32:34Z",
+          "fetched_at": "2026-07-20T08:40:53.664107Z",
+          "archived": false,
+          "url": "https://github.com/NVlabs/instant-ngp"
+        },
+        "InterDigitalInc/CompressAI": {
+          "stars": 1612,
+          "last_commit": "2026-07-04T00:31:53Z",
+          "fetched_at": "2026-07-20T08:40:53.859549Z",
+          "archived": false,
+          "url": "https://github.com/InterDigitalInc/CompressAI"
+        },
+        "kornia/kornia": {
+          "stars": 11283,
+          "last_commit": "2026-07-19T16:58:42Z",
+          "fetched_at": "2026-07-20T08:40:54.870907Z",
+          "archived": false,
+          "url": "https://github.com/kornia/kornia"
+        },
+        "albumentations-team/albumentations": {
+          "stars": 15319,
+          "last_commit": "2025-06-25T23:21:43Z",
+          "fetched_at": "2026-07-20T08:40:53.812313Z",
+          "archived": true,
+          "url": "https://github.com/albumentations-team/albumentations"
+        },
+        "pytorch/vision": {
+          "stars": 17826,
+          "last_commit": "2026-07-19T11:49:53Z",
+          "fetched_at": "2026-07-20T08:40:53.978872Z",
+          "archived": false,
+          "url": "https://github.com/pytorch/vision"
+        },
+        "triton-inference-server/server": {
+          "stars": 10857,
+          "last_commit": "2026-07-20T05:16:13Z",
+          "fetched_at": "2026-07-20T08:40:53.946202Z",
+          "archived": false,
+          "url": "https://github.com/triton-inference-server/server"
+        },
+        "huggingface/candle": {
+          "stars": 20689,
+          "last_commit": "2026-07-14T17:28:02Z",
+          "fetched_at": "2026-07-20T08:40:54.103947Z",
+          "archived": false,
+          "url": "https://github.com/huggingface/candle"
+        }
+      }
     }
   ]
 }

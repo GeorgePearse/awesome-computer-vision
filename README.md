@@ -4,7 +4,7 @@
 
 A curated list of awesome computer vision tools, libraries, and frameworks with live GitHub statistics.
 
-*Last updated: 2026-08-17 06:34 UTC*
+*Last updated: 2026-08-24 06:37 UTC*
 
 ## Contents
 
@@ -29,10 +29,10 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool | 16.5k | 2026-08-16 | +1.2% |
-| [label-studio](https://github.com/HumanSignal/label-studio) - Multi-type data labeling and annotation tool | 28.1k | 2026-08-17 | +0.7% |
-| [labelme](https://github.com/wkentaro/labelme) - Image polygonal annotation with Python | 16.1k | 2026-08-17 | +0.3% |
-| [labelImg](https://github.com/HumanSignal/labelImg) - Graphical image annotation tool | 25.1k | 2024-06-07 | +0.0% |
+| [cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool | 16.6k | 2026-08-23 | +1.1% |
+| [label-studio](https://github.com/HumanSignal/label-studio) - Multi-type data labeling and annotation tool | 28.1k | 2026-08-24 | +0.7% |
+| [labelme](https://github.com/wkentaro/labelme) - Image polygonal annotation with Python | 16.1k | 2026-08-23 | +0.3% |
+| [labelImg](https://github.com/HumanSignal/labelImg) - Graphical image annotation tool | 25.1k | 2024-06-07 | -0.0% |
 
 ## Self-Supervision
 
@@ -40,9 +40,9 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [dino](https://github.com/facebookresearch/dino) - Self-DIstillation with NO labels | 7.6k | 2024-07-03 | +0.1% |
-| [dinov2](https://github.com/facebookresearch/dinov2) - DINOv2: Learning robust visual features | 13.2k | 2026-06-03 | +0.9% |
-| [lightly](https://github.com/lightly-ai/lightly) - Self-supervised learning framework | 3.8k | 2026-08-16 | +0.3% |
+| [dino](https://github.com/facebookresearch/dino) - Self-DIstillation with NO labels | 7.6k | 2024-07-03 | +0.0% |
+| [dinov2](https://github.com/facebookresearch/dinov2) - DINOv2: Learning robust visual features | 13.3k | 2026-06-03 | +0.7% |
+| [lightly](https://github.com/lightly-ai/lightly) - Self-supervised learning framework | 3.8k | 2026-08-21 | +0.2% |
 
 ## Vision-Language Models (VLMs)
 
@@ -51,9 +51,9 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
 | [CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pre-Training | 34.2k | 2026-03-25 | +0.4% |
-| [BLIP](https://github.com/salesforce/BLIP) - Bootstrapping Language-Image Pre-training | 5.7k | 2026-03-03 | +0.1% |
+| [BLIP](https://github.com/salesforce/BLIP) - Bootstrapping Language-Image Pre-training | 5.7k | 2026-03-03 | 0.0% |
 | [LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language and Vision Assistant | 25.0k | 2024-08-12 | +0.2% |
-| [CogVLM](https://github.com/zai-org/CogVLM) - Visual language model for image understanding | 6.7k | 2024-05-29 | +0.0% |
+| [CogVLM](https://github.com/zai-org/CogVLM) - Visual language model for image understanding | 6.7k | 2024-05-29 | -0.0% |
 | [InternVL](https://github.com/OpenGVLab/InternVL) - InternVL: Scaling up vision foundation models | 10.1k | 2025-09-22 | +0.4% |
 
 ## Instance Segmentation
@@ -62,11 +62,11 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [segment-anything](https://github.com/facebookresearch/segment-anything) - Segment Anything Model (SAM) | 54.7k | 2024-09-18 | +0.2% |
-| [detectron2](https://github.com/facebookresearch/detectron2) - Detection and segmentation platform | 34.7k | 2026-07-24 | +0.1% |
-| [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounding DINO + SAM | 17.7k | 2024-09-05 | +0.2% |
+| [segment-anything](https://github.com/facebookresearch/segment-anything) - Segment Anything Model (SAM) | 54.8k | 2024-09-18 | +0.3% |
+| [detectron2](https://github.com/facebookresearch/detectron2) - Detection and segmentation platform | 34.7k | 2026-08-19 | +0.2% |
+| [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounding DINO + SAM | 17.7k | 2024-09-05 | +0.1% |
 | [mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab detection toolbox | 32.9k | 2024-08-21 | +0.1% |
-| [rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR: Real-time detection transformer | 9.0k | 2026-08-15 | +4.2% |
+| [rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR: Real-time detection transformer | 9.0k | 2026-08-24 | +3.3% |
 
 ## Object Detection
 
@@ -74,11 +74,11 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv8 and beyond | 60.7k | 2026-08-17 | +1.7% |
+| [ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv8 and beyond | 60.9k | 2026-08-24 | +1.6% |
 | [mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab detection toolbox | 32.9k | 2024-08-21 | +0.1% |
-| [yolov7](https://github.com/WongKinYiu/yolov7) - YOLOv7 implementation | 14.1k | 2024-08-19 | +0.1% |
+| [yolov7](https://github.com/WongKinYiu/yolov7) - YOLOv7 implementation | 14.1k | 2024-08-19 | +0.0% |
 | [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - PaddlePaddle object detection toolkit | 14.4k | 2026-05-28 | +0.3% |
-| [rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR: Real-time detection transformer | 9.0k | 2026-08-15 | +4.2% |
+| [rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR: Real-time detection transformer | 9.0k | 2026-08-24 | +3.3% |
 
 ## Classification
 
@@ -86,8 +86,8 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - timm: PyTorch image models collection | 37.1k | 2026-08-11 | +0.2% |
-| [mmpretrain](https://github.com/open-mmlab/mmpretrain) - OpenMMLab pre-training toolbox | 3.8k | 2024-11-01 | +0.2% |
+| [pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - timm: PyTorch image models collection | 37.1k | 2026-08-21 | +0.2% |
+| [mmpretrain](https://github.com/open-mmlab/mmpretrain) - OpenMMLab pre-training toolbox | 3.8k | 2024-11-01 | +0.1% |
 
 ## Pose Estimation
 
@@ -95,9 +95,9 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [mmpose](https://github.com/open-mmlab/mmpose) - OpenMMLab pose estimation toolbox | 7.8k | 2025-08-04 | +1.0% |
+| [mmpose](https://github.com/open-mmlab/mmpose) - OpenMMLab pose estimation toolbox | 7.8k | 2025-08-04 | +0.9% |
 | [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - Real-time multi-person keypoint detection | 34.4k | 2024-08-03 | +0.2% |
-| [ViTPose](https://github.com/ViTAE-Transformer/ViTPose) - Vision Transformer for pose estimation | 2.1k | 2025-12-25 | +1.2% |
+| [ViTPose](https://github.com/ViTAE-Transformer/ViTPose) - Vision Transformer for pose estimation | 2.1k | 2025-12-25 | +1.1% |
 
 ## Landmark Detection
 
@@ -105,9 +105,9 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [insightface](https://github.com/deepinsight/insightface) - Face analysis with deep learning | 29.5k | 2026-07-27 | +0.8% |
+| [insightface](https://github.com/deepinsight/insightface) - Face analysis with deep learning | 29.6k | 2026-07-27 | +0.7% |
 | [face-alignment](https://github.com/1adrianb/face-alignment) - 2D and 3D face alignment library | 7.5k | 2026-04-06 | +0.1% |
-| [mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform ML solutions | 36.6k | 2026-08-12 | +1.3% |
+| [mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform ML solutions | 36.7k | 2026-08-21 | +1.0% |
 
 ## NeRFs
 
@@ -115,10 +115,10 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - Modular NeRF framework | 11.9k | 2025-07-29 | +0.7% |
+| [nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - Modular NeRF framework | 11.9k | 2025-07-29 | +0.6% |
 | [nerf](https://github.com/bmild/nerf) - Original NeRF implementation | 10.9k | 2025-04-12 | +0.1% |
 | [multinerf](https://github.com/google-research/multinerf) - Google's multi-NeRF implementations | 3.8k | 2023-12-08 | -0.1% |
-| [instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives | 17.5k | 2026-02-02 | +0.1% |
+| [instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives | 17.5k | 2026-02-02 | +0.2% |
 
 ## Deep Learning Image Compression
 
@@ -126,7 +126,7 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [CompressAI](https://github.com/InterDigitalInc/CompressAI) - PyTorch library for learned compression | 1.6k | 2026-07-04 | +0.5% |
+| [CompressAI](https://github.com/InterDigitalInc/CompressAI) - PyTorch library for learned compression | 1.6k | 2026-07-04 | +0.4% |
 
 ## Augmentation
 
@@ -134,9 +134,9 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [kornia](https://github.com/kornia/kornia) - Differentiable CV library for PyTorch | 11.3k | 2026-08-16 | +0.3% |
+| [kornia](https://github.com/kornia/kornia) - Differentiable CV library for PyTorch | 11.3k | 2026-08-21 | +0.3% |
 | [albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library | 15.3k | 2025-06-25 | -0.0% |
-| [vision](https://github.com/pytorch/vision) - torchvision transforms and datasets | 17.9k | 2026-08-16 | +0.2% |
+| [vision](https://github.com/pytorch/vision) - torchvision transforms and datasets | 17.9k | 2026-08-23 | +0.2% |
 
 ## Inference Servers
 
@@ -144,8 +144,8 @@ A curated list of awesome computer vision tools, libraries, and frameworks with 
 
 | Repository | Stars | Last Commit | MoM Growth |
 |------------|------:|:-----------:|:----------:|
-| [server](https://github.com/triton-inference-server/server) - NVIDIA Triton Inference Server | 10.9k | 2026-08-14 | +0.6% |
-| [candle](https://github.com/huggingface/candle) - Minimalist ML framework in Rust | 20.9k | 2026-08-15 | +1.1% |
+| [server](https://github.com/triton-inference-server/server) - NVIDIA Triton Inference Server | 10.9k | 2026-08-20 | +0.6% |
+| [candle](https://github.com/huggingface/candle) - Minimalist ML framework in Rust | 20.9k | 2026-08-23 | +1.0% |
 
 ---
 
@@ -163,4 +163,4 @@ To add a new repository:
 - MoM Growth = Month-over-month percentage change in stars
 - Last Commit = Date of most recent push to the repository
 
-<!-- Generated: 2026-08-17T06:34:06.284992+00:00 -->
+<!-- Generated: 2026-08-24T06:37:01.296289+00:00 -->
